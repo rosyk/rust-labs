@@ -1,0 +1,9 @@
+D:\RustRover 2024.3.6\projects\src\lab5\target\debug\deps\libppv_lite86-3bf541ce3943a9d5.rmeta: C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\lib.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\soft.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\types.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\x86_64\mod.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\x86_64\sse2.rs
+
+D:\RustRover 2024.3.6\projects\src\lab5\target\debug\deps\ppv_lite86-3bf541ce3943a9d5.d: C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\lib.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\soft.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\types.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\x86_64\mod.rs C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\x86_64\sse2.rs
+
+C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\lib.rs:
+C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\soft.rs:
+C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\types.rs:
+C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\x86_64\mod.rs:
+C:\Users\ilimo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ppv-lite86-0.2.20\src\x86_64\sse2.rs:
