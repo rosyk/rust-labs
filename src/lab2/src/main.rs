@@ -79,4 +79,18 @@ fn main() {
     println!("Is salary more than 55000? {}", above_threshold);
 
     println!("Full employee info (Debug): {:?}", employee);
+
+    let mut employees = vec![
+        Employee::new("Engineer".to_string(), 50000.0, "2020-01-15".to_string()),
+        Employee::new("Manager".to_string(), 70000.0, "2018-05-20".to_string()),
+        Employee::new("Analyst".to_string(), 60000.0, "2022-03-10".to_string()),
+        Employee::new("Developer".to_string(), 55000.0, "2021-11-01".to_string()),
+    ];
+
+    employees.sort_by(|a, b| a.salary.partial_cmp(&b.salary).unwrap());
+
+    println!("Employees sorted by salary:");
+    for employee in &employees {
+        println!("{}", employee.get_info());
+    }
 }
