@@ -156,26 +156,26 @@ fn main() {
     list.push_front(0);
     list.push_front(-1);
 
-    println!("List size: {}", list.len());
+    println!("list size: {}", list.len());
 
-    println!("List elements:");
+    println!("list elements:");
     for node in list.iter() {
         let value = node.borrow().data;
         println!("{}", value);
     }
 
-    println!("Popped from back: {:?}", list.pop_back());
-    println!("Popped from front: {:?}", list.pop_front());
+    println!("popped from back: {:?}", list.pop_back());
+    println!("popped from front: {:?}", list.pop_front());
 
-    println!("List after popping:");
+    println!("list after popping:");
     for node in list.iter() {
         let value = node.borrow().data;
         println!("{}", value);
     }
 
     while let Some(item) = list.pop_front() {
-        println!("Popped: {}", item);
+        println!("popped el: {}", item);
     }
 
-    println!("List is empty: {}", list.is_empty());
+    println!("list is empty: {}", list.is_empty());
 }
