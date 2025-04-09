@@ -20,6 +20,10 @@
       <excludeFolder url="file://$MODULE_DIR$/src/lab6/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/lab7/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/lab8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/lab8/Apache24/cgi-bin" />
+      <excludeFolder url="file://$MODULE_DIR$/src/lab8/Apache24/htdocs" />
+      <excludeFolder url="file://$MODULE_DIR$/src/lab8/Apache24/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/src/lab8/Apache24/manual" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
